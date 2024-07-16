@@ -4,3 +4,8 @@ author: "Nicholas Oliver Silveira Powell"
 format: html
 ---
 
+Do the callback rates change depending on the race and gender of the person
+
+What percentage of each of the four categories (wm, ww, bm, bw) get callbacks in chicago and boston
+
+The units would be which of the categories the individual is a part of (wm, ww, bm, bw) and the outcome would be whether or not they got a callback
